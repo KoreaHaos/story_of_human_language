@@ -1,4 +1,4 @@
-# The story of Human Language
+# The Story of Human Language
 
 From Class
 
