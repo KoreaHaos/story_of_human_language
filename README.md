@@ -1,2 +1,4 @@
-# story_of_human_language
-Classy
+# The story of Human Language
+
+From Class
+
